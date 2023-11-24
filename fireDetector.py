@@ -5,13 +5,6 @@ import random
 # 3 == Scorching
 # 4 == above normal
 
-# elif temp == range(28, 37):
-#     temp_state = 2
-# elif temp >= 38, :
-#     temp_state = 3
-# else:
-#     temp_state = 4
-
 def check_installed():
     detector = True
     return detector
